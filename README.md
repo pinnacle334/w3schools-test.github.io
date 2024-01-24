@@ -1,3 +1,4 @@
+
 # Guestbook for w3schools.com Git tutorial
 
 This is the public GitHub project that you can contribute to.
@@ -28,3 +29,5 @@ And add your name to it :)
 
 We reserve the right to remove, or not to add anything that we feel will not fit here.
 Also, this page is a community page, and the content you add may be changed later.
+
+this is my own changes
